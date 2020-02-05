@@ -1,0 +1,26 @@
+body {
+  margin: 0;
+  padding: 0;
+  font-family: sans-serif;
+  background: #FAEBD7;
+}
+.NavBar-App{
+  background:white;
+}
+.NavBar-App {
+  color: black;
+}
+
+.add-match-card {
+  padding: 30px;
+}
+.padded {
+  margin-bottom: 30px;
+}
+.select-oponent {
+  width: 165px;  
+}
+.score-input {
+  padding-right: 5px;
+  padding-left: 5px;
+}
